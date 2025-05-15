@@ -1,8 +1,9 @@
 import requests
 import csv
+import re
 import json
 
-# Step 1: Fetch all topic info including id, title, views, like_count
+# Step 1: Fetch all topic info
 def fetch_all_bullhorn_topics():
     post_id = []
     views_per_edition = []
@@ -42,7 +43,7 @@ def fetch_all_bullhorn_topics():
 
     return post_id, views_per_edition
 
-# Step 2: For each post_id, get the raw Markdown content
+# Step 2: Fetch raw Markdown
 def fetch_raw_markdown(post_id):
     url = f"https://forum.ansible.com/raw/{post_id}"
     print(f"Fetching raw content for post {post_id}")
@@ -53,15 +54,25 @@ def fetch_raw_markdown(post_id):
         print(f"Failed to fetch post {post_id}")
         return ""
 
-# Step 3: Extract lines with keywords
-def extract_matching_lines(markdown_text, keywords=("shared", "said", "contributed")):
-    lines = markdown_text.splitlines()
-    matched_lines = [line for line in lines if any(keyword in line.lower() for keyword in keywords)]
-    return matched_lines
+# Step 3: Extract user and matrix link from matched lines
+def extract_user_and_link(post_id, markdown_text, keywords=("shared", "said", "contributed")):
+    pattern = r"\[(.*?)\]\((https://matrix\.to/#/@.*?:ansible\.im)\).*(" + "|".join(keywords) + ")"
+    matches = []
 
-# Run the whole pipeline
+    for line in markdown_text.splitlines():
+        match = re.search(pattern, line, re.IGNORECASE)
+        if match:
+            user, link, _ = match.groups()
+            matches.append({
+                "post_id": post_id,
+                "user": user,
+                "matrix_link": link
+            })
+
+    return matches
+
+# Run full pipeline
 post_id, views_per_edition = fetch_all_bullhorn_topics()
-print(f"Found {len(post_id)} post IDs")
 
 # Save views_per_edition to CSV
 with open("views_per_edition.csv", "w", newline='', encoding="utf-8") as f:
@@ -70,23 +81,46 @@ with open("views_per_edition.csv", "w", newline='', encoding="utf-8") as f:
     for entry in views_per_edition:
         writer.writerow(entry)
 
-# Process raw markdown and extract keyword matches
-all_matches = []
+# Collect and save filtered user + matrix links
+filtered_data = []
 
 for pid in post_id:
     raw_md = fetch_raw_markdown(pid)
-    matches = extract_matching_lines(raw_md)
-    if matches:
-        all_matches.append({
-            "post_id": pid,
-            "matched_lines": matches
+    user_link_matches = extract_user_and_link(pid, raw_md)
+    filtered_data.extend(user_link_matches)
+
+# Save to CSV
+with open("bullhorn_filtered_lines.csv", "w", newline='', encoding="utf-8") as f:
+    writer = csv.DictWriter(f, fieldnames=["post_id", "user", "matrix_link"])
+    writer.writeheader()
+    for row in filtered_data:
+        writer.writerow(row)
+
+print(f"\n✅ Extracted {len(filtered_data)} matching lines to bullhorn_filtered_lines.csv")
+
+
+
+from collections import defaultdict
+
+# Step 4: Count number of unique users per post_id
+user_map = defaultdict(set)
+
+# Group by post_id and collect unique users
+for row in filtered_data:
+    user_map[row["post_id"]].add(row["user"])
+
+# Merge with title info from views_per_edition
+id_to_title = {str(entry["id"]): entry["title"] for entry in views_per_edition}
+
+# Write the summary CSV
+with open("user_count_per_post.csv", "w", newline='', encoding="utf-8") as f:
+    writer = csv.DictWriter(f, fieldnames=["id", "title", "number_of_users"])
+    writer.writeheader()
+    for pid, users in user_map.items():
+        writer.writerow({
+            "id": pid,
+            "title": id_to_title.get(str(pid), ""),
+            "number_of_users": len(users)
         })
 
-# Print and optionally save filtered lines
-for match in all_matches:
-    print(f"\n📌 Post ID: {match['post_id']}")
-    for line in match['matched_lines']:
-        print(f"→ {line}")
-
-with open("bullhorn_filtered_lines.json", "w", encoding="utf-8") as f:
-    json.dump(all_matches, f, indent=2, ensure_ascii=False)
+print(f"✅ Created user_count_per_post.csv with {len(user_map)} rows")
