@@ -1,0 +1,1204 @@
+[
+  {
+    "post_id": 42367,
+    "matched_lines": [
+      "[chadams](https://matrix.to/#/@chadams:ansible.im) contributed",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said",
+      "[gomathiselvi](https://matrix.to/#/@gomathiselvi:ansible.im) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) contributed"
+    ]
+  },
+  {
+    "post_id": 42032,
+    "matched_lines": [
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) contributed",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) contributed"
+    ]
+  },
+  {
+    "post_id": 41853,
+    "matched_lines": [
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "> community.routeros 2.20.1 (https://github.com/ansible-collections/community.routeros/blob/stable-2/CHANGELOG.md#v2-20-1) has been released. This release marks community.routeros 2.x.y as End of Life. If you haven't done so, please upgrade to community.routeros 3.x.y. Thanks to everyone who contributed to the many 2.x.y releases!",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said"
+    ]
+  },
+  {
+    "post_id": 41718,
+    "matched_lines": [
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed"
+    ]
+  },
+  {
+    "post_id": 41578,
+    "matched_lines": [
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) shared",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) contributed",
+      "[yurnov](https://matrix.to/#/@yurnov:matrix.org) contributed",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) contributed",
+      "[abuzachis](https://matrix.to/#/@aevelina:ansible.im) said",
+      "[demetri](https://matrix.to/#/@ddimatos:matrix.org) contributed",
+      "[Gilles aubin Bikouo njangang](https://matrix.to/#/@aubin06:matrix.org) said",
+      "[Dmitry Shurupov](https://matrix.to/#/@dshnow:matrix.org) said",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[demetri](https://matrix.to/#/@ddimatos:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed"
+    ]
+  },
+  {
+    "post_id": 41401,
+    "matched_lines": [
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed"
+    ]
+  },
+  {
+    "post_id": 41287,
+    "matched_lines": [
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed"
+    ]
+  },
+  {
+    "post_id": 41093,
+    "matched_lines": [
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared"
+    ]
+  },
+  {
+    "post_id": 40947,
+    "matched_lines": [
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) shared",
+      "[abuzachis](https://matrix.to/#/@aevelina:ansible.im) shared",
+      "[Bianca Henderson](https://matrix.to/#/@bhenderson:matrix.org) contributed",
+      "[abuzachis](https://matrix.to/#/@aevelina:ansible.im) contributed",
+      "[nitzmahone](https://matrix.to/#/@nitzmahone:ansible.im) contributed",
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) shared"
+    ]
+  },
+  {
+    "post_id": 40751,
+    "matched_lines": [
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) said",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed"
+    ]
+  },
+  {
+    "post_id": 40592,
+    "matched_lines": [
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) contributed",
+      "[mkamner](https://matrix.to/#/@mkamner:matrix.org) contributed",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) shared",
+      "[Martin Jackson](https://matrix.to/#/@mhjacks:matrix.org) shared",
+      "[Simon Dodsley](https://matrix.to/#/@sdodsley:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[sshnaidm](https://matrix.to/#/@sshnaidm:matrix.org) said",
+      "[demetri](https://matrix.to/#/@ddimatos:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed"
+    ]
+  },
+  {
+    "post_id": 40277,
+    "matched_lines": [
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said",
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed"
+    ]
+  },
+  {
+    "post_id": 40122,
+    "matched_lines": [
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "[gomathiselvi](https://matrix.to/#/@gomathiselvi:ansible.im) shared",
+      "[Mandar Kulkarni](https://matrix.to/#/@mandkulk:matrix.org) said",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed"
+    ]
+  },
+  {
+    "post_id": 39947,
+    "matched_lines": [
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) contributed",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) contributed"
+    ]
+  },
+  {
+    "post_id": 39813,
+    "matched_lines": [
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[yurnov](https://matrix.to/#/@yurnov:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "> We would appreciated any feedback on the [Awesome Ansible list: How to make it more presentable/attractive to contribute to?](https://forum.ansible.com/t/awesome-ansible-list-how-to-make-it-more-presentable-attractive-to-contribute-to/39710) forum topic. Thanks to everyone who contributed to the projects and the list!",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared"
+    ]
+  },
+  {
+    "post_id": 39677,
+    "matched_lines": [
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said",
+      "[Helen Bailey](https://matrix.to/#/@hbailey:matrix.org) shared",
+      "[Helen Bailey](https://matrix.to/#/@hbailey:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said"
+    ]
+  },
+  {
+    "post_id": 39548,
+    "matched_lines": [
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "> community.general 10.2.0 (https://github.com/ansible-collections/community.general/blob/stable-10/CHANGELOG.md#v10-2-0), community.general 9.5.3 (https://github.com/ansible-collections/community.general/blob/stable-9/CHANGELOG.md#v9-5-3), and community.general 8.6.9 (https://github.com/ansible-collections/community.general/blob/stable-8/CHANGELOG.md#v8-6-9) have been released with new features, plugins, and modules (10.2.0 only), bugfixes, and one security fix for `community.general.keycloak_authentication` when working with Keycloak 25+. Check out the linked changelogs for more details, and many thanks to everyone who contributed to these releases!",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said"
+    ]
+  },
+  {
+    "post_id": 39271,
+    "matched_lines": [
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "[csmart](https://matrix.to/#/@csmart:matrix.org) contributed",
+      "[csmart](https://matrix.to/#/@csmart:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared"
+    ]
+  },
+  {
+    "post_id": 39145,
+    "matched_lines": [
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "> Ansible DevTools team shared [hi-level focus areas for developer tooling in 2025](https://forum.ansible.com/t/ansible-devtools-plans-and-collaboration-opportunities/39142) with the community. Read up to find ways we can work together!",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared"
+    ]
+  },
+  {
+    "post_id": 38961,
+    "matched_lines": [
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) contributed",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said",
+      "[abuzachis](https://matrix.to/#/@aevelina:ansible.im) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[Sagar Paul](https://matrix.to/#/@sagpaul:matrix.org) contributed",
+      "[hsaito](https://matrix.to/#/@saito-hideki:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) contributed",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared"
+    ]
+  },
+  {
+    "post_id": 11278,
+    "matched_lines": [
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) contributed",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[sshnaidm](https://matrix.to/#/@sshnaidm:matrix.org) contributed",
+      "[sshnaidm](https://matrix.to/#/@sshnaidm:matrix.org) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said"
+    ]
+  },
+  {
+    "post_id": 11071,
+    "matched_lines": [
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) shared",
+      "[dmsimard](https://matrix.to/#/@dmsimard:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "[Simon Dodsley](https://matrix.to/#/@sdodsley:matrix.org) shared",
+      "[laurent-indermuehle](https://matrix.to/#/@laurent-indermuehle:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) shared"
+    ]
+  },
+  {
+    "post_id": 10939,
+    "matched_lines": [
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) shared",
+      "[toydarian](https://matrix.to/#/@toydarian:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said"
+    ]
+  },
+  {
+    "post_id": 10830,
+    "matched_lines": [
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) contributed",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) contributed"
+    ]
+  },
+  {
+    "post_id": 10637,
+    "matched_lines": [
+      "[Leo](https://matrix.to/#/@leo:ansible.im) shared",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) said",
+      "[Simon Dodsley](https://matrix.to/#/@sdodsley:matrix.org) shared",
+      "[abuzachis](https://matrix.to/#/@aevelina:ansible.im) contributed",
+      "[abuzachis](https://matrix.to/#/@aevelina:ansible.im) shared",
+      "[demetri](https://matrix.to/#/@ddimatos:matrix.org) contributed",
+      "[demetri](https://matrix.to/#/@ddimatos:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[steampunks](https://matrix.to/#/@xlab_steampunk:matrix.org) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[Leo](https://matrix.to/#/@leo:ansible.im) contributed"
+    ]
+  },
+  {
+    "post_id": 10513,
+    "matched_lines": [
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said",
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[hsaito](https://matrix.to/#/@saito-hideki:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said"
+    ]
+  },
+  {
+    "post_id": 10406,
+    "matched_lines": [
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared"
+    ]
+  },
+  {
+    "post_id": 10196,
+    "matched_lines": [
+      "@Leo said",
+      "@oranod shared",
+      "@oranod shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[hsaito](https://matrix.to/#/@saito-hideki:matrix.org) shared"
+    ]
+  },
+  {
+    "post_id": 9846,
+    "matched_lines": [
+      "@Leo said",
+      "@Leo shared",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) contributed",
+      "@sean_sullivan said",
+      "@felixfontein shared",
+      "@mhjacks shared",
+      "@mariolenz contributed",
+      "@mariolenz contributed",
+      "@oranod shared",
+      "@oranod shared",
+      "@oranod said",
+      "> [Luca Berton](http://forum.ansible.com/u/lucab_it/summary) has shared a blog post with details about the [Ansible London Meetup](http://forum.ansible.com/t/ansible-london-ansible-london-monday-23rd-september-2024-2024-09-23/8178) that recently took place. In his post, titled [Ansible Community Meetup 2024: Updates, Releases, and Networking](https://www.ansiblepilot.com/articles/ansible-community-meetup-2024-updates-releases-and-networking/), Luca provides his take and an overview of the presentation from the Ansible community team at Red Hat that gave a brief update on initiatives to support contributors and foster the community. So head over to Luca's blog to read the post and catch up on what took place at the London meetup.",
+      "@Leo shared"
+    ]
+  },
+  {
+    "post_id": 8837,
+    "matched_lines": [
+      "[Leo](https://matrix.to/#/@leo:ansible.im) contributed",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) said",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[demetri](https://matrix.to/#/@ddimatos:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[Leo](https://matrix.to/#/@leo:ansible.im) contributed",
+      "[Leo](https://matrix.to/#/@leo:ansible.im) contributed",
+      "[Leo](https://matrix.to/#/@leo:ansible.im) said"
+    ]
+  },
+  {
+    "post_id": 8658,
+    "matched_lines": [
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) said",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "[Leo](https://matrix.to/#/@leo:ansible.im) shared",
+      "[Leo](https://matrix.to/#/@leo:ansible.im) contributed",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) said",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) contributed",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared"
+    ]
+  },
+  {
+    "post_id": 8496,
+    "matched_lines": [
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) said",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) said",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) contributed",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) shared",
+      "[hsaito](https://matrix.to/#/@saito-hideki:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) contributed",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed"
+    ]
+  },
+  {
+    "post_id": 8298,
+    "matched_lines": [
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) contributed",
+      "[dmsimard](https://matrix.to/#/@dmsimard:matrix.org) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[abuzachis](https://matrix.to/#/@aevelina:ansible.im) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said"
+    ]
+  },
+  {
+    "post_id": 8190,
+    "matched_lines": [
+      "[Martin Jackson](https://matrix.to/#/@mhjacks:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "> community.crypto 1.9.26 has been released; this final release marks community.crypto 1.x.y as **End of Life**. Please upgrade to community.crypto 2.x.y if you haven't already done so. Thanks to everyone who contributed to community.crypto 1.x.y!",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) contributed",
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) said"
+    ]
+  },
+  {
+    "post_id": 8101,
+    "matched_lines": [
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) shared",
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said"
+    ]
+  },
+  {
+    "post_id": 7907,
+    "matched_lines": [
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared"
+    ]
+  },
+  {
+    "post_id": 7771,
+    "matched_lines": [
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared"
+    ]
+  },
+  {
+    "post_id": 7614,
+    "matched_lines": [
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) contributed",
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) contributed",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said",
+      "[Mandar Kulkarni](https://matrix.to/#/@mandkulk:matrix.org) contributed",
+      "[Mandar Kulkarni](https://matrix.to/#/@mandkulk:matrix.org) contributed",
+      "[Mandar Kulkarni](https://matrix.to/#/@mandkulk:matrix.org) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said"
+    ]
+  },
+  {
+    "post_id": 7359,
+    "matched_lines": [
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) shared"
+    ]
+  },
+  {
+    "post_id": 7281,
+    "matched_lines": [
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Leo](https://matrix.to/#/@leo:ansible.im) said"
+    ]
+  },
+  {
+    "post_id": 7089,
+    "matched_lines": [
+      "[Leo](https://matrix.to/#/@leo:ansible.im) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "> If you are using the shared workflows from https://github.com/ansible-community/github-docs-build/ to publish dcumentation to GitHub Pages as described in https://github.com/ansible-community/github-docs-build/wiki/Getting-started-with-GitHub-Pages#enabling-pages, you need to update your workflows, since publishing will no longer work since beginning of this month. See http://forum.ansible.com/t/6796 for more information.",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[TVo](https://matrix.to/#/@tvo318:matrix.org) contributed",
+      "[abuzachis](https://matrix.to/#/@aevelina:ansible.im) shared",
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) contributed",
+      "> * How we move common code into shared libraries",
+      "[Leo](https://matrix.to/#/@leo:ansible.im) shared",
+      "[Nikhil Jain](https://matrix.to/#/@jniks:matrix.org) contributed",
+      "[Leo](https://matrix.to/#/@leo:ansible.im) said"
+    ]
+  },
+  {
+    "post_id": 6832,
+    "matched_lines": [
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "> If you use the shared workflows from ansible-community/github-docs-build/ (https://github.com/ansible-community/github-docs-build/) to publish your collection's documentation to GitHub pages, please check out https://github.com/ansible-community/github-docs-build/issues/92 respectively http://forum.ansible.com/t/6796 - GitHub changes the way how GitHub Pages can be published, and the old way (also described in the github-docs-build repo's wiki) will stop working on **June 30th**.",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "[demetri](https://matrix.to/#/@ddimatos:matrix.org) said",
+      "[yurnov](https://matrix.to/#/@yurnov:matrix.org) contributed",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) said",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[thedoubl3j](https://matrix.to/#/@thedoubl3j:ansible.im) shared",
+      "> * Updated platform ingress to not allow modification of the shared resources (PR #15234)",
+      "> * Renamed ``AWX_DIRECT_SHARED_RESOURCE_MANAGEMENT_ENABLED`` to",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[yurnov](https://matrix.to/#/@yurnov:matrix.org) shared",
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) contributed",
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed"
+    ]
+  },
+  {
+    "post_id": 6528,
+    "matched_lines": [
+      "[Leo](https://matrix.to/#/@leo:ansible.im) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[sshnaidm](https://matrix.to/#/@sshnaidm:matrix.org) said",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed"
+    ]
+  },
+  {
+    "post_id": 6279,
+    "matched_lines": [
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) said",
+      "[TVo](https://matrix.to/#/@tvo318:matrix.org) contributed",
+      "[abuzachis](https://matrix.to/#/@aevelina:ansible.im) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[Leo](https://matrix.to/#/@leo:ansible.im) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) shared",
+      "[douweb82](https://matrix.to/#/@douweb82:matrix.org) said"
+    ]
+  },
+  {
+    "post_id": 6109,
+    "matched_lines": [
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[TVo](https://matrix.to/#/@tvo318:matrix.org) said",
+      "[Martin Jackson](https://matrix.to/#/@mhjacks:matrix.org) said",
+      "[sshnaidm](https://matrix.to/#/@sshnaidm:matrix.org) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) shared",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) shared"
+    ]
+  },
+  {
+    "post_id": 6020,
+    "matched_lines": [
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) shared",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) contributed",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Martin Jackson](https://matrix.to/#/@mhjacks:matrix.org) contributed",
+      "[Helen Bailey](https://matrix.to/#/@hbailey:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[demetri](https://matrix.to/#/@ddimatos:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "> community.general  version 6.6.9 (https://github.com/ansible-collections/community.general/blob/stable-6/CHANGELOG.md#v6-6-9) was released which is the last 6.x.y release. The 6.x.y release train is therefore now End of Life. Thanks to everyone who contributed to the 6.x.y releases!",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said"
+    ]
+  },
+  {
+    "post_id": 5859,
+    "matched_lines": [
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[abuzachis](https://matrix.to/#/@aevelina:ansible.im) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[yurnov](https://matrix.to/#/@yurnov:matrix.org) said",
+      "[demetri](https://matrix.to/#/@ddimatos:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said"
+    ]
+  },
+  {
+    "post_id": 5730,
+    "matched_lines": [
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[sfoster](https://matrix.to/#/@sfoster:matrix.org) said",
+      "[abuzachis](https://matrix.to/#/@aevelina:ansible.im) contributed",
+      "[Simon Dodsley](https://matrix.to/#/@sdodsley:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[ssbarnea](https://matrix.to/#/@ssbarnea:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said"
+    ]
+  },
+  {
+    "post_id": 5194,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "> As mentioned in [The Bullhorn #134](http://forum.ansible.com/t/4631) we discussed the possibility to add teams / a team representative to the Ansible Community Steering Committee and started a [vote](http://forum.ansible.com/t/4492/16). The proposal has been accepted, allowing a team to become part of the SC. The team will be represented by a (possibly rotating) member of said team.",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) said",
+      "[ansible-announce](https://matrix.to/#/@ansible-announce:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[sshnaidm](https://matrix.to/#/@sshnaidm:matrix.org) said",
+      "[Martin Jackson](https://matrix.to/#/@mhjacks:matrix.org) shared",
+      "[Rohit Thakur](https://matrix.to/#/@rothakur:matrix.org) contributed",
+      "[Rohit Thakur](https://matrix.to/#/@rothakur:matrix.org) said",
+      "[Rohit Thakur](https://matrix.to/#/@rothakur:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Rohit Thakur](https://matrix.to/#/@rothakur:matrix.org) said",
+      "[Rohit Thakur](https://matrix.to/#/@rothakur:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Rohit Thakur](https://matrix.to/#/@rothakur:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Zhenech](https://matrix.to/#/@zhenech:matrix.org) shared",
+      "[dmsimard](https://matrix.to/#/@dmsimard:matrix.org) said"
+    ]
+  },
+  {
+    "post_id": 4935,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[TVo](https://matrix.to/#/@tvo318:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[roverflow](https://matrix.to/#/@roverflow:matrix.org) shared",
+      "[Helen Bailey](https://matrix.to/#/@hbailey:matrix.org) contributed",
+      "[Simon Dodsley](https://matrix.to/#/@sdodsley:matrix.org) said",
+      "[csmart](https://matrix.to/#/@csmart:matrix.org) contributed",
+      "> [community.rabbitmq 1.3.0](https://github.com/ansible-collections/community.rabbitmq/blob/main/CHANGELOG.rst) has been released with bug fixes and new features, including the ability to manage users via the API. Thank you to everyone who contributed to this release!",
+      "[Helen Bailey](https://matrix.to/#/@hbailey:matrix.org) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[msatmarean](https://matrix.to/#/@msatmarean:matrix.org) said",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[steampunks](https://matrix.to/#/@xlab_steampunk:matrix.org) said"
+    ]
+  },
+  {
+    "post_id": 4631,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[thedoubl3j](https://matrix.to/#/@thedoubl3j:ansible.im) contributed",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[steampunks](https://matrix.to/#/@xlab_steampunk:matrix.org) said"
+    ]
+  },
+  {
+    "post_id": 4548,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) shared",
+      "[briantist](https://matrix.to/#/@briantist:matrix.org) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) contributed",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said"
+    ]
+  },
+  {
+    "post_id": 4402,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[chadams](https://matrix.to/#/@chadams:ansible.im) contributed",
+      "[Simon Dodsley](https://matrix.to/#/@sdodsley:matrix.org) contributed",
+      "[Martin Jackson](https://matrix.to/#/@mhjacks:matrix.org) contributed",
+      "[aleks_vagachev](https://matrix.to/#/@aleks_vagachev:matrix.org) contributed",
+      "[gomathiselvi](https://matrix.to/#/@gomathiselvi:ansible.im) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[Zhenech](https://matrix.to/#/@zhenech:matrix.org) shared"
+    ]
+  },
+  {
+    "post_id": 4256,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) contributed",
+      "[TVo](https://matrix.to/#/@tvo318:matrix.org) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[thom-at-redhat](https://matrix.to/#/@thom-at-redhat:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[abuzachis](https://matrix.to/#/@aevelina:ansible.im) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[steampunks](https://matrix.to/#/@xlab_steampunk:matrix.org) said"
+    ]
+  },
+  {
+    "post_id": 3959,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[thedoubl3j](https://matrix.to/#/@thedoubl3j:ansible.im) contributed",
+      "[TheRealHaoLiu](https://matrix.to/#/@therealhaoliu:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[abuzachis](https://matrix.to/#/@aevelina:ansible.im) shared",
+      "[gomathiselvi](https://matrix.to/#/@gomathiselvi:ansible.im) shared",
+      "[demetri](https://matrix.to/#/@ddimatos:matrix.org) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[aleks_vagachev](https://matrix.to/#/@aleks_vagachev:matrix.org) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Christian Jung](https://github.com/cbolz) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[steampunks](https://matrix.to/#/@xlab_steampunk:matrix.org) contributed"
+    ]
+  },
+  {
+    "post_id": 3597,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) shared",
+      "[sfoster](https://matrix.to/#/@sfoster:matrix.org) contributed",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Christian Jung](https://github.com/cbolz) shared"
+    ]
+  },
+  {
+    "post_id": 3488,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[Gwmngilfen](https://matrix.to/#/@gwmngilfen:ansible.im) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "> There are two new GitHub Actions for [building collection artifacts](https://github.com/ansible-community/github-action-build-collection) and [testing Galaxy import with a collection](https://github.com/ansible-community/github-action-test-galaxy-import). Both actions contain a shared workflow which makes using them easier; using the action directly gives you more flexibility to include it into complex workflows. The Galaxy import shared workflow can be [added rather simply to a collection](https://github.com/ansible-community/github-action-test-galaxy-import#bundled-shared-workflow).",
+      "[Qalthos](https://matrix.to/#/@qalthos:ansible.im) said",
+      "[Rohit Thakur](https://matrix.to/#/@rothakur:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[resmo](https://matrix.to/#/@resmo:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[gomathiselvi](https://matrix.to/#/@gomathiselvi:ansible.im) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[lucab_it](https://matrix.to/#/@lucab_it:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared"
+    ]
+  },
+  {
+    "post_id": 3334,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said",
+      "[Lila Yasin](https://matrix.to/#/@lyasin:matrix.org) contributed",
+      "[demetri](https://matrix.to/#/@ddimatos:matrix.org) shared",
+      "[Simon Dodsley](https://matrix.to/#/@sdodsley:matrix.org) shared",
+      "[Simon Dodsley](https://matrix.to/#/@sdodsley:matrix.org) said",
+      "[briantist](https://matrix.to/#/@briantist:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "[steampunks](https://matrix.to/#/@xlab_steampunk:matrix.org) said",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared"
+    ]
+  },
+  {
+    "post_id": 3076,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[Simon Dodsley](https://matrix.to/#/@sdodsley:matrix.org) said",
+      "[steampunks](https://matrix.to/#/@xlab_steampunk:matrix.org) said",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) contributed",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed"
+    ]
+  },
+  {
+    "post_id": 2960,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[resmo](https://matrix.to/#/@resmo:matrix.org) contributed",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) contributed",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) shared"
+    ]
+  },
+  {
+    "post_id": 2847,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said",
+      "> The shared Ansible Working Group ICS meeting file has moved [here](https://github.com/ansible-community/meetings). Please update your calendars to use this new location! See details in the project README.",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) shared",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) said",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) shared",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) contributed",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[thedoubl3j](https://matrix.to/#/@thedoubl3j:ansible.im) said",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) contributed",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[resmo](https://matrix.to/#/@resmo:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[roverflow](https://matrix.to/#/@roverflow:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[abuzachis](https://matrix.to/#/@aevelina:ansible.im) said",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) contributed"
+    ]
+  },
+  {
+    "post_id": 2568,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[rochacbruno](https://matrix.to/#/@rochacbruno:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Lila Yasin](https://matrix.to/#/@lyasin:matrix.org) contributed",
+      "[nilashish](https://matrix.to/#/@nilashish:matrix.org) shared",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) said",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) shared",
+      "[sshnaidm](https://matrix.to/#/@sshnaidm:matrix.org) contributed",
+      "[steampunks](https://matrix.to/#/@xlab_steampunk:matrix.org) contributed",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said"
+    ]
+  },
+  {
+    "post_id": 2328,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) contributed",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) contributed",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said",
+      "[Lila Yasin](https://matrix.to/#/@lyasin:matrix.org) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[Gwmngilfen](https://matrix.to/#/@gwmngilfen:ansible.im) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) shared",
+      "[steampunks](https://matrix.to/#/@xlab_steampunk:matrix.org) contributed",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[Leo](https://matrix.to/#/@leo:ansible.im) said"
+    ]
+  },
+  {
+    "post_id": 2163,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[Gwmngilfen](https://matrix.to/#/@gwmngilfen:ansible.im) contributed",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[jessicamack](https://matrix.to/#/@jessicamack:matrix.org) shared",
+      "[nilashish](https://matrix.to/#/@nilashish:matrix.org) said",
+      "[briantist](https://github.com/briantist) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[Simon Dodsley](https://matrix.to/#/@sdodsley:matrix.org) said",
+      "[demetri](https://matrix.to/#/@ddimatos:matrix.org) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[briantist](https://github.com/briantist) said",
+      "[laurent-indermuehle](https://matrix.to/#/@laurent-indermuehle:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[laurent-indermuehle](https://matrix.to/#/@laurent-indermuehle:matrix.org) contributed",
+      "[steampunks](https://matrix.to/#/@xlab_steampunk:matrix.org) said",
+      "[dmsimard](https://matrix.to/#/@dmsimard:matrix.org) contributed",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[Leo](https://matrix.to/#/@leo:ansible.im) said"
+    ]
+  },
+  {
+    "post_id": 1858,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) said",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) contributed",
+      "[Lila Yasin](https://matrix.to/#/@lyasin:matrix.org) said",
+      "[joola](https://matrix.to/#/@joola:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[demetri](https://matrix.to/#/@ddimatos:matrix.org) said",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[briantist](https://github.com/briantist) contributed",
+      "[Gwmngilfen](https://matrix.to/#/@gwmngilfen:ansible.im) contributed",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) shared",
+      "[dmsimard](https://matrix.to/#/@dmsimard:matrix.org) contributed",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared"
+    ]
+  },
+  {
+    "post_id": 1510,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) shared",
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) shared",
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) said",
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) shared",
+      "[Thib](https://matrix.to/#/@thib:ergaster.org) contributed",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "[gundalow](https://matrix.to/#/@gundalow:ansible.im) said",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed"
+    ]
+  },
+  {
+    "post_id": 1210,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[Oranod](https://matrix.to/#/@orandon:ansible.im) said",
+      "[Leo](https://matrix.to/#/@leo:ansible.im) said",
+      "[Lila Yasin](https://matrix.to/#/@lyasin:matrix.org) contributed",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Shatakshi](https://matrix.to/#/@shatakshiiii:matrix.org) said",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) contributed",
+      "[Ranabir Chakraborty](https://matrix.to/#/@ridetotheroots:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared"
+    ]
+  },
+  {
+    "post_id": 1148,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[rochacbruno](https://matrix.to/#/@rochacbruno:matrix.org) contributed",
+      "[Gwmngilfen](https://matrix.to/#/@gwmngilfen:ansible.im) said",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[csmart](https://matrix.to/#/@csmart:matrix.org) said",
+      "> [community.libvirt 1.3.0](https://github.com/ansible-collections/community.libvirt/blob/main/CHANGELOG.rst#v1-3-0) has been released with new bugfixes and features, including `diff` mode for the `define` command as well as a new `mutate_flags` option to modify existing domains. Thank you to everyone who contributed to this release!",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[steampunks](https://matrix.to/#/@xlab_steampunk:matrix.org) said",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared"
+    ]
+  },
+  {
+    "post_id": 844,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[Gwmngilfen](https://matrix.to/#/@gwmngilfen:ansible.im) said",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) contributed",
+      "[thedoubl3j](https://matrix.to/#/@thedoubl3j:ansible.im) contributed",
+      "[Cristiano Nicolai](https://matrix.to/#/@cristianon:matrix.org) contributed",
+      "[dmsimard](https://matrix.to/#/@dmsimard:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) contributed",
+      "[Gwmngilfen](https://matrix.to/#/@gwmngilfen:ansible.im) contributed"
+    ]
+  },
+  {
+    "post_id": 333,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[Gwmngilfen](https://matrix.to/#/@gwmngilfen:ansible.im) contributed",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[Helen Bailey](https://matrix.to/#/@hbailey:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) contributed",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[Gwmngilfen](https://matrix.to/#/@gwmngilfen:ansible.im) contributed"
+    ]
+  },
+  {
+    "post_id": 247,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[Lila Yasin](https://matrix.to/#/@lyasin:matrix.org) contributed",
+      "[nilashish](https://matrix.to/#/@nilashish:matrix.org) said",
+      "[betanummeric](https://matrix.to/#/@betanummeric:matrix.org) contributed",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) said",
+      "[resmo](https://matrix.to/#/@resmo:matrix.org) said",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) shared",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[nilashish](https://matrix.to/#/@nilashish:matrix.org) contributed",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) contributed"
+    ]
+  },
+  {
+    "post_id": 168,
+    "matched_lines": [
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[anwesha](https://matrix.to/#/@anwesha:ansible.im) said",
+      "[jjwatt](https://matrix.to/#/@jjwatt:matrix.org) shared",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) contributed",
+      "[Don Naro](https://matrix.to/#/@orandon:ansible.im) shared",
+      "[samccann](https://matrix.to/#/@samccann:ansible.im) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[Sean Sullivan](https://matrix.to/#/@ssulliva:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) contributed",
+      "[aleks_vagachev](https://matrix.to/#/@aleks_vagachev:matrix.org) shared",
+      "[Felix Fontein](https://matrix.to/#/@felixfontein:matrix.org) said",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) contributed",
+      "[mariolenz](https://matrix.to/#/@mariolenz:matrix.org) said",
+      "[gotmax23](https://matrix.to/#/@gotmax:matrix.org) contributed",
+      "[andersson007_](https://matrix.to/#/@andersson007_:matrix.org) said",
+      "[cybette](https://matrix.to/#/@cybette:ansible.im) said",
+      "[felixfontein](https://matrix.to/#/@felixfontein:libera.chat) shared"
+    ]
+  }
+]
