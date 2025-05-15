@@ -56,8 +56,8 @@ def fetch_raw_markdown(post_id):
 
 # Step 3: Extract user and matrix link from matched lines
 def extract_user_and_link(post_id, markdown_text, keywords=("shared", "said", "contributed")):
-    pattern = r"\[(.*?)\]\((https://matrix\.to/#/@.*?:ansible\.im)\).*(" + "|".join(keywords) + ")"
-    matches = []
+pattern = r"\[(.*?)\]\((https://matrix\.to/#/@[^)]+)\).*(" + "|".join(keywords) + ")"
+matches = []
 
     for line in markdown_text.splitlines():
         match = re.search(pattern, line, re.IGNORECASE)
