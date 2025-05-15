@@ -56,8 +56,8 @@ def fetch_raw_markdown(post_id):
 
 # Step 3: Extract user and matrix link from matched lines
 def extract_user_and_link(post_id, markdown_text, keywords=("shared", "said", "contributed")):
-pattern = r"\[(.*?)\]\((https://matrix\.to/#/@[^)]+)\).*(" + "|".join(keywords) + ")"
-matches = []
+    pattern = r"\[(.*?)\]\((https://matrix\.to/#/@[^)]+)\).*(" + "|".join(keywords) + ")"
+    matches = []
 
     for line in markdown_text.splitlines():
         match = re.search(pattern, line, re.IGNORECASE)
@@ -90,11 +90,21 @@ for pid in post_id:
     filtered_data.extend(user_link_matches)
 
 # Save to CSV
+# Add title to each row in filtered_data using post_id -> title mapping
+id_to_title = {entry["id"]: entry["title"] for entry in views_per_edition}
+
+# Save enriched data to CSV
 with open("bullhorn_filtered_lines.csv", "w", newline='', encoding="utf-8") as f:
-    writer = csv.DictWriter(f, fieldnames=["post_id", "user", "matrix_link"])
+    writer = csv.DictWriter(f, fieldnames=["post_id", "title", "user", "matrix_link"])
     writer.writeheader()
     for row in filtered_data:
-        writer.writerow(row)
+        post_id = int(row["post_id"])
+        writer.writerow({
+            "post_id": post_id,
+            "title": id_to_title.get(post_id, ""),
+            "user": row["user"],
+            "matrix_link": row["matrix_link"]
+        })
 
 print(f"\n✅ Extracted {len(filtered_data)} matching lines to bullhorn_filtered_lines.csv")
 
