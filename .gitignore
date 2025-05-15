@@ -175,3 +175,5 @@ cython_debug/
 
 #ignore output files
 output.json
+view_per_edition.csv
+*.csv
