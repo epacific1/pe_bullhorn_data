@@ -156,7 +156,7 @@
                 "liked": null,
                 "tags": [],
                 "tags_descriptions": {},
-                "views": 1243,
+                "views": 1244,
                 "like_count": 0,
                 "has_summary": false,
                 "last_poster_username": "gwmngilfen",
@@ -367,7 +367,7 @@
                     "galaxy-ng": "Galaxy provides a hub for discovering and sharing Ansible community content.",
                     "templating": "Templating changes as part of core-2.19 and later"
                 },
-                "views": 484,
+                "views": 485,
                 "like_count": 1,
                 "has_summary": false,
                 "last_poster_username": "samccann",
@@ -1583,7 +1583,7 @@
                     "galaxy-ng": "Galaxy provides a hub for discovering and sharing Ansible community content.",
                     "ansible-core": "Ansible Core is the language and CLI runtime that powers Ansible."
                 },
-                "views": 344,
+                "views": 345,
                 "like_count": 4,
                 "has_summary": false,
                 "last_poster_username": "samccann",
