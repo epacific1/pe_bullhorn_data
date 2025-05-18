@@ -1,8 +1,3 @@
-Certainly! Here's a clean, fully formatted `README.md` file that you can drop directly into your project:
-
----
-
-```markdown
 # 🐂 Bullhorn Analyzer
 
 **Bullhorn Analyzer** is a Python script that extracts and analyses contributor data from the [Ansible Bullhorn](https://forum.ansible.com/c/news/bullhorn/17) newsletter hosted on Discourse. It produces structured reports on post views, contributor mentions, and user activity across all issues.
